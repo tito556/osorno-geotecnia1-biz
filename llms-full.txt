@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Osorno
+
+> Geotechnical engineering services in Osorno, Chile.
+
+## Services
+- [Aislacion Sismica](https://osorno.geotecnia1.biz/aislacion-sismica/)
+- [Anclajes](https://osorno.geotecnia1.biz/anclajes/)
+- [Calicatas](https://osorno.geotecnia1.biz/calicatas/)
+- [Cbr Vial](https://osorno.geotecnia1.biz/cbr-vial/)
+- [Cimentaciones](https://osorno.geotecnia1.biz/cimentaciones/)
+- [Columnas Grava](https://osorno.geotecnia1.biz/columnas-grava/)
+- [Densidad Cono Arena](https://osorno.geotecnia1.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://osorno.geotecnia1.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://osorno.geotecnia1.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://osorno.geotecnia1.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://osorno.geotecnia1.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://osorno.geotecnia1.biz/excavaciones-subterraneo/)
+- [Exploracion](https://osorno.geotecnia1.biz/exploracion/)
+- [Geotecnia Vial](https://osorno.geotecnia1.biz/geotecnia-vial/)
+- [Granulometria](https://osorno.geotecnia1.biz/granulometria/)
+- [Inyecciones](https://osorno.geotecnia1.biz/inyecciones/)
+- [Laboratorio In Situ](https://osorno.geotecnia1.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://osorno.geotecnia1.biz/laboratorio-lab/)
+- [Licuefaccion](https://osorno.geotecnia1.biz/licuefaccion/)
+- [Limites Atterberg](https://osorno.geotecnia1.biz/limites-atterberg/)
+- [Losas Fundacion](https://osorno.geotecnia1.biz/losas-fundacion/)
+- [Masw](https://osorno.geotecnia1.biz/masw/)
+- [Mejoramiento](https://osorno.geotecnia1.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://osorno.geotecnia1.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://osorno.geotecnia1.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://osorno.geotecnia1.biz/muros-contencion/)
+- [Pavimento Flexible](https://osorno.geotecnia1.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://osorno.geotecnia1.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://osorno.geotecnia1.biz/permeabilidad-in-situ/)
+- [Pilotes](https://osorno.geotecnia1.biz/pilotes/)
+- [Refraccion Sismica](https://osorno.geotecnia1.biz/refraccion-sismica/)
+- [Resistividad](https://osorno.geotecnia1.biz/resistividad/)
+- [Sismica](https://osorno.geotecnia1.biz/sismica/)
+- [Sondajes Spt](https://osorno.geotecnia1.biz/sondajes-spt/)
+- [Taludes](https://osorno.geotecnia1.biz/taludes/)
+- [Triaxial](https://osorno.geotecnia1.biz/triaxial/)
+- [Tuneles Suelo Blando](https://osorno.geotecnia1.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://osorno.geotecnia1.biz/vibrocompactacion/)
+- [Zapatas](https://osorno.geotecnia1.biz/zapatas/)
+
+## Contact
+- Website: https://osorno.geotecnia1.biz/
+
+## About
+This site provides geotechnical engineering services in Osorno, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
